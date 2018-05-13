@@ -1,0 +1,3 @@
+# Python_Exercise
+
+Puoi anche aggiungere un ReadMe che lui automaticamente ti fa vedere sotto al progetto...
